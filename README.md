@@ -52,7 +52,7 @@ Tracking agricultural commodity prices manually across multiple Nigerian states 
 
 ![Agricultural Commodities Power BI Dashboard](dashboard_preview.png)
 
-*(Tip: Replace `dashboard_preview.png` with the filename of your exported Power BI screenshot.)*
+
 
 ---
 
