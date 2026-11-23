@@ -97,5 +97,5 @@ Open `agric_commodities_dashboard.pbix` in **Power BI Desktop** and click **Refr
 
 **Ifeduba Amarachi Vincent**  
 Data Analyst & Technical Trainer | Python • SQL • Power BI • Excel  
-* [LinkedIn]([https://linkedin.com/in/ifeduba-amarachi/))  
+* [LinkedIn]([https://linkedin.com/in/ifeduba-amarachi)  
 * [GitHub](https://github.com)
