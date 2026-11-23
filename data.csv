@@ -1,0 +1,4 @@
+student_id,firstname,lastname,gender,phonenumber,age,department_id,department_id,title
+1.0,jacinta,mmesoma,f,08014993493,20.0,1.0,1.0,data analaysis
+2.0,amarachi,vincent,m,08038973693,50.0,1.0,1.0,data analaysis
+3.0,obule,chiamaka,m,09067896767,18.0,2.0,2.0,backend development
